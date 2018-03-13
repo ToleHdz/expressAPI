@@ -14,4 +14,6 @@ app.use(hardware)
 
 app.listen(3000)
 
+//para firebase
+//https://es.coursera.org/learn/aplicaciones-android/lecture/IeLYO/ejemplo-conectando-servidor-node-js-con-base-de-datos-firebase
 
